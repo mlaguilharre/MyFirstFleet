@@ -31,4 +31,4 @@ diff:
 
 
 dependsOn:
-  - name: myFirstGit-monitoring-all-monitoring-crd
+  - name: test-monitoring-monitoring-all-monitoring-crd
