@@ -30,5 +30,3 @@ diff:
         - {"op":"remove", "path":"/webhooks"}
 
 
-dependsOn:
-  - name: test-monitoring-monitoring-all-monitoring-crd
